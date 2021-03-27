@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include <GameBoy.h>
-#include <GyverButton.h>
 
 
 GameBoy gb;
